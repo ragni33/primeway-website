@@ -1,5 +1,10 @@
+
+body{
+    margin: auto;
+}
 .App {
   text-align: center;
+ 
 }
 
 .App-logo {
@@ -36,3 +41,51 @@
     transform: rotate(360deg);
   }
 }
+
+footer{
+  padding: 2%;
+  background-color: #093632;
+  color: white;
+
+}
+
+footer .stars{
+  color: rgb(216, 122, 122);
+}
+.social-media-icons {
+  margin-top: 10px;
+    
+}
+
+.social-media-icons a {
+  margin-right: 10px;
+  color: rgb(216, 122, 122);
+
+}
+
+.contactus{
+  overflow: hidden;
+}
+.opening-hours{
+  margin-top: 5%;
+  background-color: #2a9c85;
+  height: 500px;
+}
+.opening-hours h2{
+margin-top: 2%;
+margin-bottom: 5%;
+}
+
+.opening-hours-info{
+  margin-left: 20px;
+}
+
+.home{
+  margin-top: 5%;
+}
+
+
+
+
+
+
